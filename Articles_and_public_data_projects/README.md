@@ -1,6 +1,6 @@
 # My public data analysis projects
 
-## How shared data and open-source resources can improve the lot of humanity and their environment?
+## How can shared data and open-source resources can improve the lot of humanity and their environment?
 
 Since changing careers from the lab bench to bioinformatics, this is a question that I've often come to ask myself.  
 At the bottom of it lies three things: better data measurements, better analysis, better sharing. 
